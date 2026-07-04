@@ -5,6 +5,11 @@ Detects and counts Red Blood Cells (RBC), White Blood Cells (WBC) and Platelets 
 - **Classical (OpenCV)** — CLAHE + HSV color masking + Watershed. Works out of the box, no training or weights needed.
 - **YOLOv8** — fine-tuned object detector. Needs trained weights (see below).
 
+  <img width="952" height="880" alt="image" src="https://github.com/user-attachments/assets/ba0e4b6a-d7da-4fa8-8b40-7a06b287175c" />
+  <img width="955" height="876" alt="image" src="https://github.com/user-attachments/assets/0af59d80-0361-4150-8e8a-c4268dca4893" />
+
+
+
 ## Project layout
 
 ```
